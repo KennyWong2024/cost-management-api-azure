@@ -63,9 +63,4 @@ cost-management-api-azure/
 
 ## Licencia
 
-Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
-
-## Contacto
-
-En caso de recomendaciones o consultas, puede contactarme al correo [[kennywong080122@gmail.com](mailto\:kennywong080122@gmail.com)].
-
+Este proyecto está bajo la licencia MIT.
